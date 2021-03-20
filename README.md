@@ -1,6 +1,5 @@
 # Mivy Your Personal health assistant
-**Myvi is a personal health bot 🤖 designed to help you understand anything related to your personal health.
-**
+**Myvi is a personal health bot 🤖 designed to help you understand anything related to your personal health.**
 
 ## Problem space
 
@@ -26,7 +25,7 @@ Mivy is a personal health assistant, designed to help patients understand  their
 
 Our first prototype is showcasing our vision of how Myvi could look like and how patients could interact with it. It's a click-dummy designed in Figma.
 
-**Try it out here: **
+**Try it out here:**
 [Figma](https://www.figma.com/proto/7DAaokSyl2NH3DybFn26TX/Myvi-Personal-Health-Assistant_StartHack?node-id=28%3A3589&viewport=2996%2C-578%2C0.4627781808376312)
 
 Our second prototype is a working prototype developed with Azure and xxx. We trained Myvi on the topic of Breast Cancer. A potential patient can already have a very simple conversation with Myvi around this topic.
