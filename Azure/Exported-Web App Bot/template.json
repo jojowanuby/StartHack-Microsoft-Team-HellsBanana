@@ -1,0 +1,57 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "channels_WebChatChannel_enablePreview": {
+            "type": "Bool"
+        },
+        "botServices_MS_Myway_name": {
+            "defaultValue": "MS-Myway",
+            "type": "String"
+        }
+    },
+    "variables": {},
+    "resources": [
+        {
+            "type": "Microsoft.BotService/botServices",
+            "apiVersion": "2020-06-02",
+            "name": "[parameters('botServices_MS_Myway_name')]",
+            "location": "global",
+            "sku": {
+                "name": "F0"
+            },
+            "kind": "sdk",
+            "properties": {
+                "displayName": "[parameters('botServices_MS_Myway_name')]",
+                "iconUrl": "https://docs.botframework.com/static/devportal/client/images/bot-framework-default.png",
+                "endpoint": "https://ms-myway.azurewebsites.net/api/messages",
+                "msaAppId": "71449d7f-3b07-420d-9b7c-1ac135a7dfa4",
+                "developerAppInsightKey": "e185a6a2-5120-4c9e-b180-5353fa7a22f6",
+                "developerAppInsightsApplicationId": "ba238c4b-f982-4121-8aeb-3168da856575",
+                "luisAppIds": [],
+                "isCmekEnabled": false
+            }
+        },
+        {
+            "type": "Microsoft.BotService/botServices/channels",
+            "apiVersion": "2020-06-02",
+            "name": "[concat(parameters('botServices_MS_Myway_name'), '/WebChatChannel')]",
+            "location": "global",
+            "dependsOn": [
+                "[resourceId('Microsoft.BotService/botServices', parameters('botServices_MS_Myway_name'))]"
+            ],
+            "properties": {
+                "properties": {
+                    "sites": [
+                        {
+                            "siteName": "Default Site",
+                            "isEnabled": true,
+                            "enablePreview": "[parameters('channels_WebChatChannel_enablePreview')]"
+                        }
+                    ]
+                },
+                "channelName": "WebChatChannel"
+            }
+        }
+    ]
+}
