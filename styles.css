@@ -13,8 +13,9 @@
 }
 
 .middle{
-	position:absolute;
-	left:50vh;
+	position: absolute;
+    	left: 50vw;
+    	transform: translate(-200px);
 }
 
 .rectangle_1050_51_2 { 
