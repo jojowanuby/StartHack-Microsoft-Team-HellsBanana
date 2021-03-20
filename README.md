@@ -32,7 +32,8 @@ Our first prototype is showcasing our vision of how Myvi could look like and how
 **Try it out here: [Figma Clickdummy](https://www.figma.com/proto/7DAaokSyl2NH3DybFn26TX/Myvi-Personal-Health-Assistant_StartHack?node-id=28%3A3589&viewport=2996%2C-578%2C0.4627781808376312)**
 
 Our second prototype is a working prototype developed with the two Azure Services (QnA and Webap robot). We trained Myvi on the topic of Breast Cancer with resources provided by the challenge host in the GitHub as well as important questions and Information from leading breast cancer organisations. A potential patient can already have a very simple conversation with Myvi around this topic.
-The Prototype app can be accessed for the next couple days under the follow link
+
+The Prototype app can be accessed for the next couple days under the follow link: [Working Prototype](https://jojowanuby.github.io/StartHack-Microsoft-Team-HellsBanana/)
 
 **Other useful resources:**
 - [Miro Board](https://miro.com/welcomeonboard/GX01gReQ89tqbFtMRV7toKz1OSUfkNlbRV8FOjzcz94He2CpUKnj70j5J1yS8nbi) (Ideation / Concept)
