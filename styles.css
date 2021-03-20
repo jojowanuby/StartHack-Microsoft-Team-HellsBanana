@@ -11,6 +11,12 @@
 	border-bottom-right-radius:21px;
 	position:absolute;
 }
+
+.middle{
+	position:absolute;
+	left:50vh;
+}
+
 .rectangle_1050_51_2 { 
 	
 	background-color:rgba(255, 255, 255, 1);
