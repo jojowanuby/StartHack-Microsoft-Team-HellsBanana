@@ -1,288 +1,0 @@
-.42_0 { 
-	overflow:hidden;
-}.feedback_42_0 { 
-	background-color:rgba(250.00000029802322, 250.00000029802322, 252.00000017881393, 1);
-	width:414px;
-	height:896px;
-	border-top-left-radius:20px;
-	border-top-right-radius:20px;
-	border-bottom-left-radius:20px;
-	border-bottom-right-radius:20px;
-	position:absolute;
-}.local_topbar_42_1 { 
-	box-shadow:0px 1px 8px rgba(0, 0, 0, 0.05999999865889549);
-	background-color:rgba(255, 255, 255, 1);
-	width:413px;
-	height:53px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.personal_health_assistant_42_9 { 
-	color:rgba(0, 0, 0, 1);
-	width:260px;
-	height:19px;
-	position:absolute;
-	left:76.5px;
-	top:19px;
-	font-family:SF Pro Text;
-	text-align:left;
-	font-size:16px;
-	letter-spacing:0.360169380903244;
-}.frame_44_42_17 { 
-	width:414px;
-	height:792px;
-	position:absolute;
-	left:0px;
-	top:104px;
-}.frame_52_42_47 { 
-	width:366px;
-	height:167.30908203125px;
-	position:absolute;
-	left:24px;
-	top:0px;
-}.frame_15_42_18 { 
-	width:285px;
-	height:73.30908966064453px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.mascot_42_19 { 
-	width:63.999996185302734px;
-	height:73.30908966064453px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.ellipse_11_42_20 { 
-	border-radius:500px;
-	background-color:rgba(238.00000101327896, 213.00000250339508, 103.0000014603138, 1);
-	width:63.999996185302734px;
-	height:63.999996185302734px;
-	position:absolute;
-	left:0px;
-	top:9px;
-}.mascot_42_21 { 
-	width:63.999996185302734px;
-	height:73.30908966064453px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.ellipse_12_42_23 { 
-	border-radius:500px;
-	background-color:rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1);
-	width:64px;
-	height:64px;
-	position:absolute;
-	left:0px;
-	top:9.000022888183594px;
-}.mascot_1_42_49 { 
-	width:64px;
-	height:74px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(images/mascot_1.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.frame_14_42_25 { 
-	width:205px;
-	height:48px;
-	position:absolute;
-	left:80px;
-	top:25.30908966064453px;
-}.mivy_42_26 { 
-	color:rgba(0, 0, 0, 1);
-	width:34px;
-	height:19px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	font-family:SF Pro Display;
-	text-align:left;
-	font-size:16px;
-	letter-spacing:0;
-}.your_personal_health_assistant_42_27 { 
-	color:rgba(112.000000923872, 115.00000074505806, 125.00000014901161, 1);
-	width:205px;
-	height:17px;
-	position:absolute;
-	left:0px;
-	top:23px;
-	font-family:SF Pro Text;
-	text-align:left;
-	font-size:14px;
-	letter-spacing:0.2800000011920929;
-}.frame_17_42_28 { 
-	width:366px;
-	height:70px;
-	position:absolute;
-	left:0px;
-	top:97.30908966064453px;
-}.your_paper_is_about_breast_cancer__do_you_have_any_specific_questions_that_you_want_to_ask_me__42_29 { 
-	color:rgba(0, 0, 0, 1);
-	width:334px;
-	height:70px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	text-align:left;
-	font-size:14px;
-	letter-spacing:0.2800000011920929;
-}.frame_17_42_46 { 
-	width:366px;
-	height:187px;
-	position:absolute;
-	left:24px;
-	top:605px;
-}.options_42_30 { 
-	width:366px;
-	height:82px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.frame_10_42_33 { 
-	width:447px;
-	height:82px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.some_suggestions__42_34 { 
-	color:rgba(0, 0, 0, 1);
-	width:132px;
-	height:17px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	font-family:SF Pro Text;
-	text-align:left;
-	font-size:14px;
-	letter-spacing:0.2800000011920929;
-}.options_42_35 { 
-	width:447px;
-	height:41px;
-	position:absolute;
-	left:0px;
-	top:41px;
-}.frame_36_42_36 { 
-	box-shadow:0px 0px 1px rgba(0, 0, 0, 0.10999999940395355);
-	background-color:rgba(255, 255, 255, 1);
-	width:278px;
-	height:41px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-top-left-radius:6px;
-	border-top-right-radius:6px;
-	border-bottom-left-radius:6px;
-	border-bottom-right-radius:6px;
-}.rectangle_1041_42_37 { 
-	width:16px;
-	height:16px;
-	position:absolute;
-	left:16px;
-	top:12px;
-	background-image:url(images/rectangle_1041.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.what_does_breast_cancer_mean__42_38 { 
-	color:rgba(112.000000923872, 115.00000074505806, 125.00000014901161, 1);
-	width:222px;
-	height:17px;
-	position:absolute;
-	left:40px;
-	top:12px;
-	font-family:SF Pro Text;
-	text-align:left;
-	font-size:14px;
-	letter-spacing:0.2800000011920929;
-}.frame_45_42_39 { 
-	box-shadow:0px 0px 1px rgba(0, 0, 0, 0.10999999940395355);
-	background-color:rgba(255, 255, 255, 1);
-	opacity:0.5;
-	width:159px;
-	height:41px;
-	position:absolute;
-	left:288px;
-	top:0px;
-	border-top-left-radius:6px;
-	border-top-right-radius:6px;
-	border-bottom-left-radius:6px;
-	border-bottom-right-radius:6px;
-}.rectangle_1042_42_40 { 
-	width:16px;
-	height:16px;
-	position:absolute;
-	left:16px;
-	top:12px;
-	background-image:url(images/rectangle_1042.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.show_me_some_42_41 { 
-	color:rgba(112.000000923872, 115.00000074505806, 125.00000014901161, 1);
-	width:103px;
-	height:17px;
-	position:absolute;
-	left:40px;
-	top:12px;
-	font-family:SF Pro Text;
-	text-align:left;
-	font-size:14px;
-	letter-spacing:0.2800000011920929;
-}.frame_51_42_45 { 
-	width:366px;
-	height:81px;
-	position:absolute;
-	left:0px;
-	top:106px;
-}.frame_4_42_31 { 
-	box-shadow:0px 0px 1px rgba(0, 0, 0, 0.10999999940395355);
-	background-color:rgba(255, 255, 255, 1);
-	width:251px;
-	height:54px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-top-left-radius:6px;
-	border-top-right-radius:6px;
-	border-bottom-left-radius:6px;
-	border-bottom-right-radius:6px;
-}.ask_your_question____42_32 { 
-	color:rgba(174.03750121593475, 178.00961047410965, 191.25, 1);
-	width:219px;
-	height:30px;
-	position:absolute;
-	left:16px;
-	top:12px;
-	font-family:SF Pro Text;
-	text-align:left;
-	font-size:14px;
-	letter-spacing:0;
-}.frame_11_42_42 { 
-	width:104px;
-	height:51px;
-	position:absolute;
-	left:259px;
-	top:0px;
-}.button____default___primary_42_43 { 
-	box-shadow:0px 2px 5px rgba(0, 0, 0, 0.20000000298023224);
-	background-color:rgba(67.00000360608101, 97.00000181794167, 238.00000101327896, 1);
-	width:104px;
-	height:51px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border-top-left-radius:6px;
-	border-top-right-radius:6px;
-	border-bottom-left-radius:6px;
-	border-bottom-right-radius:6px;
-}.confirm_i42_43_28_89 { 
-	color:rgba(240.00000089406967, 242.00000077486038, 244.0000006556511, 1);
-	width:40px;
-	height:19px;
-	position:absolute;
-	left:32px;
-	top:16px;
-	font-family:SF Pro Text;
-	text-align:left;
-	font-size:16px;
-	letter-spacing:0;
-}
