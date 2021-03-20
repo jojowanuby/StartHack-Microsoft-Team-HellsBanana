@@ -29,8 +29,7 @@ Our first prototype is showcasing our vision of how Myvi could look like and how
 
 <img width="10885" alt="myvi concept" src="https://user-images.githubusercontent.com/42036633/111886918-d3d42d00-89d1-11eb-90fa-1da15bb32938.png">
 
-**Try it out here:**
-[Figma](https://www.figma.com/proto/7DAaokSyl2NH3DybFn26TX/Myvi-Personal-Health-Assistant_StartHack?node-id=28%3A3589&viewport=2996%2C-578%2C0.4627781808376312)
+**Try it out here: [Figma Clickdummy](https://www.figma.com/proto/7DAaokSyl2NH3DybFn26TX/Myvi-Personal-Health-Assistant_StartHack?node-id=28%3A3589&viewport=2996%2C-578%2C0.4627781808376312)**
 
 Our second prototype is a working prototype developed with Azure and xxx. We trained Myvi on the topic of Breast Cancer. A potential patient can already have a very simple conversation with Myvi around this topic.
 
