@@ -11,9 +11,9 @@ Regarding personal health, patients normally use the internet particularly as an
 
 ## Meet Myvi
 
-Mivy is a personal health assistant, designed to help patients understand  their personal health better. Myvi works like a chatbot that has access to certified information and experiences around anything health related and communicates through a mobile dialogue with the patient. Myvi is a concept for an app that works similar to, e.g. a Whatsapp group chat and fits the dialogue to the language and personal needs of the user.
-
 <img width="1152" alt="Myvi Cover" src="https://user-images.githubusercontent.com/42036633/111886905-b30bd780-89d1-11eb-9353-f941a25defb0.png">
+
+Mivy is a personal health assistant, designed to help patients understand  their personal health better. Myvi works like a chatbot that has access to certified information and experiences around anything health related and communicates through a mobile dialogue with the patient. Myvi is a concept for an app that works similar to, e.g. a Whatsapp group chat and fits the dialogue to the language and personal needs of the user.
 
 ### Features:
 **Here are some potential things Myvi could do:**
