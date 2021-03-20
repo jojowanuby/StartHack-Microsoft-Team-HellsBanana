@@ -36,5 +36,5 @@ Our second prototype is a working prototype developed with Azure and xxx. We tra
 
 **Other useful resources:**
 - [Miro Board](https://miro.com/welcomeonboard/GX01gReQ89tqbFtMRV7toKz1OSUfkNlbRV8FOjzcz94He2CpUKnj70j5J1yS8nbi) (Ideation / Concept)
-- Figma-File [Figma](https://www.figma.com/proto/7DAaokSyl2NH3DybFn26TX/Myvi-Personal-Health-Assistant_StartHack?node-id=28%3A3589&viewport=2996%2C-578%2C0.4627781808376312)
+- [Figma](https://www.figma.com/proto/7DAaokSyl2NH3DybFn26TX/Myvi-Personal-Health-Assistant_StartHack?node-id=28%3A3589&viewport=2996%2C-578%2C0.4627781808376312)
 - 
