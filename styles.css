@@ -52,8 +52,10 @@
 .local_topbar_42_58 { 
 	box-shadow:0px 1px 8px rgba(0, 0, 0, 0.05999999865889549);
 	background-color:rgba(251.00000023841858, 201.00000321865082, 5.000000176951289, 1);
-	width:413px;
+	width:414px;
 	height:53px;
+	border-top-left-radius:21px;
+	border-top-right-radius:21px;
 	position:absolute;
 	left:0px;
 	top:0px;
