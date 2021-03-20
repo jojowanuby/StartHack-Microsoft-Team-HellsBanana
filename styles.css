@@ -16,7 +16,7 @@
 	position: absolute;
     	left: 50vw;
 	top:50vh;
-    	transform: translateX(-200px), translateY(-450px);
+    	transform: translate(-200px,-450px);
 }
 
 .rectangle_1050_51_2 { 
