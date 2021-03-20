@@ -35,6 +35,6 @@ Our first prototype is showcasing our vision of how Myvi could look like and how
 Our second prototype is a working prototype developed with Azure and xxx. We trained Myvi on the topic of Breast Cancer. A potential patient can already have a very simple conversation with Myvi around this topic.
 
 **Other useful resources:**
-- Miro Board (Ideation / Concept)
-- Figma-File
+- [Miro Board](https://miro.com/welcomeonboard/GX01gReQ89tqbFtMRV7toKz1OSUfkNlbRV8FOjzcz94He2CpUKnj70j5J1yS8nbi) (Ideation / Concept)
+- Figma-File [Figma](https://www.figma.com/proto/7DAaokSyl2NH3DybFn26TX/Myvi-Personal-Health-Assistant_StartHack?node-id=28%3A3589&viewport=2996%2C-578%2C0.4627781808376312)
 - 
