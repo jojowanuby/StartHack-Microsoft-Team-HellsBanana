@@ -43,7 +43,6 @@ Our second prototype is a working prototype developed with the two Azure Service
 - [Azure](https://azure.microsoft.com/en-us/)
 
 ## Our Pich Video
-[![Watch the Video](https://github.com/jojowanuby/StartHack-Microsoft-Team-HellsBanana/blob/main/images/myvie_gif_1.png) (https://youtu.be/SLvTLqjR_tA)
+[![Watch the Video](https://github.com/jojowanuby/StartHack-Microsoft-Team-HellsBanana/blob/main/images/myvie_gif_1.png)](https://youtu.be/SLvTLqjR_tA)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
