@@ -42,7 +42,7 @@ Our second prototype is a working prototype developed with the two Azure Service
 - [Figma](https://www.figma.com/proto/7DAaokSyl2NH3DybFn26TX/Myvi-Personal-Health-Assistant_StartHack?node-id=28%3A3589&viewport=2996%2C-578%2C0.4627781808376312)
 - [Azure](https://azure.microsoft.com/en-us/)
 
-## Our Pich Video by cliking on Myfi
+**Check out our Pich Video by cliking on Myfi**
 [![Watch the Video](https://github.com/jojowanuby/StartHack-Microsoft-Team-HellsBanana/blob/main/images/myvie_gif_1.png)](https://youtu.be/SLvTLqjR_tA)
 
 
