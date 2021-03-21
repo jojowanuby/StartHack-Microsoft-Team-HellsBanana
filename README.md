@@ -41,3 +41,6 @@ Our second prototype is a working prototype developed with the two Azure Service
 - [Miro Board](https://miro.com/welcomeonboard/GX01gReQ89tqbFtMRV7toKz1OSUfkNlbRV8FOjzcz94He2CpUKnj70j5J1yS8nbi) (Ideation / Concept)
 - [Figma](https://www.figma.com/proto/7DAaokSyl2NH3DybFn26TX/Myvi-Personal-Health-Assistant_StartHack?node-id=28%3A3589&viewport=2996%2C-578%2C0.4627781808376312)
 - [Azure](https://azure.microsoft.com/en-us/)
+
+## Our Pich Video
+[Prototype Pitch] (https://www.youtube.com/watch?v=SLvTLqjR_tA&t=2s)
