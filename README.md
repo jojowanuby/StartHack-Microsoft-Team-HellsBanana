@@ -43,4 +43,7 @@ Our second prototype is a working prototype developed with the two Azure Service
 - [Azure](https://azure.microsoft.com/en-us/)
 
 ## Our Pich Video
-[Prototype Pitch] (https://www.youtube.com/watch?v=SLvTLqjR_tA&t=2s)
+[Prototype Pitch] (https://youtu.be/SLvTLqjR_tA)
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
